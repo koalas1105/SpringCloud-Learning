@@ -1,4 +1,4 @@
-本仓库follow(https://github.com/dyc87112/SpringCloud-Learning)仓库，并对其进行验证和改进。
+本仓库follow ( https://github.com/dyc87112/SpringCloud-Learning ) 仓库，并对其进行验证和改进。
 
 # Spring Cloud教程
 
